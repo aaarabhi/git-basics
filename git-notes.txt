@@ -1,0 +1,27 @@
+Aarabhi Notes - Backend - 2 - Git Basics
+
+Git, Github - https://youtu.be/wpISo9TNjfU
+
+Git Config
+
+git config --global user.name "Aarabhi Ashok"
+git config --global user.email aaarabhi@gmail.com
+git config --global credential.helper store (if typing username, password - this will store for longer)
+ 
+
+Local Git 
+
+git init (.git - hidden)	Initialize git in a new project
+.gitignore (ignores files)	Copy .gitignore of respective program language - https://github.com/github/gitignore/blob/main/Node.gitignore
+git add . (Can use vscode also)	Adds all files in current dir to git
+git commit -m “<message>” (Can use vscode also)	Commits files
+
+Remote Git (GITHUB)
+Push local project to GitHub
+￼
+
+
+
+Cloning from Remote Repo
+
+https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
